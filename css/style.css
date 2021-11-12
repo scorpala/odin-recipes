@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.general-text {
+    color: darkcyan;
+    font-size: 18pt;
+}
+
+.header {
+    text-align: center;
+}
+
+.general-text {
+    text-align: center;
+}
